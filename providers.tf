@@ -6,5 +6,5 @@ provider "aws" {
 #  secret_key = "${var.aws_secret_key}"
 #  region     = "${var.aws_region}"
 
-  version = "~> 1.7"
+  version = "~> 2.7"
 }
